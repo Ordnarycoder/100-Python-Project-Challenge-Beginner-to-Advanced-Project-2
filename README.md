@@ -1,0 +1,1 @@
+This's my second project from 100 python project challenge. It's a fibonacci sequence.
